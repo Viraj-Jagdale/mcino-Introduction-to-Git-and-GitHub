@@ -31,3 +31,4 @@ The script will then output the calculated simple interest.
 ## Example
 Fixed a small typo.
 Fixed a small typo.
+Reverting a small bug fix note.
