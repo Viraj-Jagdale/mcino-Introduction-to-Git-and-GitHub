@@ -29,3 +29,5 @@ You will be prompted to enter:
 The script will then output the calculated simple interest.
 
 ## Example
+Fixed a small typo.
+Fixed a small typo.
